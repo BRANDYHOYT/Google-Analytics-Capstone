@@ -7,3 +7,4 @@ Problem to solve: how to increase the number of annual memberships at Cyclistic.
 How can my insights drive business decisions? Understanding the differences between casual riders and annual members will help me design a targeted marketing strategy to convert casual riders into annual members, ultimately increasing the profitability of the bike-share program.
 
 Stakeholders: Cyclistic Executives, Lily Moreno (Director of Marketing), Cyclistic Marketing Analytics Team, Finance Analysts
+
